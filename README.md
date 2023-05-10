@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akvishen&label=Profile%20views&color=0e75b6&style=flat" alt="akvishen" /> </p>
 
-- 🌱 I’m currently learning **React , NUXT vew , Bootstrap , PhP**
+- 🌱 I’m currently learning **React , NUXT vue , Bootstrap , PhP**
 
 - 💬 Ask me about **React , Nuxt ,Java ,PhP**
 
